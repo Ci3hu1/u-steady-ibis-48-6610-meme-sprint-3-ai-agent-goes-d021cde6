@@ -52,3 +52,4 @@ Reads in one glance; works shrunk to a phone screen.
 
 - Bundle ~/workspace/tools/makefun/bundles/meme-sprint-3-bundle.tar.gz (1,352,938 B, sha256 94571f5c2b2b9706afae42f95a9d09a391bf5e397bbdcf7e590ff0a1f1527989); usage 200 rows, 5 attached.
 - First kit check FAILED on repo_created_after_open only (root commit held all files — see rebuild note above). Re-bundled + re-checked after the rebuild; result below.
+- **Re-check after rebuild PASSED: ok=true, failed=[] (24 Nov ~02:32 WIB). Bundle ~/workspace/tools/makefun/bundles/meme-sprint-3-bundle.tar.gz (sha256 c29e517aab1babbb090f96dc498b29e6d198f8403a861d3b898cc16228a15bc1), commit 9ffd68dde4e01d2deb001a0bad41823dcfd22515. Ready for Joni's 'Setuju' to submit.**
